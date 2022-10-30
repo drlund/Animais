@@ -19,7 +19,6 @@ export default function AnimalCard({
             <div>{dieta.join(', ')}.</div>
             <button onClick={() => mostrarDadoAdicional(adicional)}>Mais info...</button>
         </div>
-        
         );
     }
 
@@ -40,4 +39,3 @@ export default function AnimalCard({
         nota: 'Sem informação adicional!'
         }
     }
-    
