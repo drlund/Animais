@@ -71,4 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## Referência
 
-Esta aplicação foi desenvolvida com base no artigo da **Digital Ocean** encontrado em https://www.digitalocean.com/community/tutorials/how-to-customize-react-components-with-props-pt]
+Esta aplicação foi desenvolvida com base no artigo da **Digital Ocean** encontrado em https://www.digitalocean.com/community/tutorials/how-to-customize-react-components-with-props-pt
